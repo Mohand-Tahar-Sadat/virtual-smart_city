@@ -1,1 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2021-02-14T07:55:42.424Z" agent="5.0 (Windows)" version="14.3.1" etag="mTqrSrR7TmVbTDx21Ju_" type="github"><diagram id="ScvJSEqFR1OHPJ4-BpPp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-14T08:31:48.290Z" agent="5.0 (Windows)" etag="xjSzRiDcGxq3pnMXZbp4" version="14.3.1" type="github">
+  <diagram id="ScvJSEqFR1OHPJ4-BpPp" name="Page-1">
+    <mxGraphModel dx="2249" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="45" width="250" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387.2" y="60" width="282.8" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-11" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="75" y="50" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="600" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kk2F5MKqNwayes8Lsn6o-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="40" width="440" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/stilllife/48x48/filesystems/gnome-fs-ssh.png" vertex="1" parent="1">
+          <mxGeometry x="912" y="302" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/128/jar.png" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-17" value="launch by script" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="290" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-18" value="SSH Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="290" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="630" y="85" width="106.6" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-22" value="VM Platform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="330" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-23" value="Client (IHM)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-147.5" y="45" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-28" value="Virtual DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-35" value="ESIPE VPN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-36" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="671.35" y="131.5" width="65.25" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-37" value="SSH SERVER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="912" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/stilllife/48x48/filesystems/gnome-fs-ssh.png" vertex="1" parent="1">
+          <mxGeometry x="160" y="316" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="86.5" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-43" value="&lt;div&gt;TCP/IP &lt;br&gt;&lt;/div&gt;&lt;div&gt;PORT 5432&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-44" value="executable: jre 1.8 " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="195" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Kk2F5MKqNwayes8Lsn6o-45" target="Kk2F5MKqNwayes8Lsn6o-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-65" y="240" />
+              <mxPoint x="93" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-45" value="Postgresql JDBC Driver 42.2.16 Released" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="260" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-46" value="Maven project " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="60" y="210" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kk2F5MKqNwayes8Lsn6o-48" target="Kk2F5MKqNwayes8Lsn6o-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kk2F5MKqNwayes8Lsn6o-48" target="Kk2F5MKqNwayes8Lsn6o-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2F5MKqNwayes8Lsn6o-48" value="&lt;div&gt;JSON Driver (Jar file)&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="131.5" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
